@@ -1,0 +1,1 @@
+select * from CITY where Countrycode like 'JPN'
